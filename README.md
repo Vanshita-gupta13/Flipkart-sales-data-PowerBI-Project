@@ -1,1 +1,3 @@
-# Vanshita-gupta13-Flipkart-sales-data-PowerBI-Project
+# Flipkart-sales-data-PowerBI-Project
+
+## This is the POWER BI project for FlipKart
