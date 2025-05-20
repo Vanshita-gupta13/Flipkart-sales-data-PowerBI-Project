@@ -4,16 +4,16 @@
 POWER BI is a powerful data visualisation platform used primarily for business intelligence purposes and I have used it to create my project for dashboard creation for demo Flipkart sales data. This POWER BI Dashboard would give a holistic view of the sales trends on Flipkart across various geographic regions along with various payment methods used for the transactions. 
  #Flipkart Sales Dashboard Insights :--
 
- ##### Overall Performance*
- * Total Sales:** 10.13M 👍
- * Average Sales:** 10K 👍
- * Quantity Sold:** 4924 👍
- * Average Rating:** 3.02 👍
+ ##### Overall Performance
+ * Total Sales: 10.13M 👍
+ * Average Sales: 10K 👍
+ * Quantity Sold: 4924 👍
+ * Average Rating: 3.02 👍
 
 ##### Sales by Product Category
 * Top Performing Categories:** Grocery, Electronics, Home Decor, Fashion, Beauty.
 
-##### Sales by Year** 
+##### Sales by Year
 * Overall Trend:** Steady growth from Jan 2023 to Jul 2023, followed by a decline until Jan 2024. 
 
 ##### Payment Method by Customers
@@ -21,16 +21,16 @@ POWER BI is a powerful data visualisation platform used primarily for business i
 * Least Popular: Net Banking (17.2%)
 
 ##### Quantity Sold by Product Category
-* Top Selling Categories:** Grocery, Electronics, Fashion, Toys & Baby, Home Decor
+* Top Selling Categories: Grocery, Electronics, Fashion, Toys & Baby, Home Decor
 
 ##### Sales by Customer Rating
-* Majority of Sales:** Concentrated between ratings 2 to 4. 
-* Lowest Sales:** At rating 1. 
-* Consistent Sales:** Across all ratings. 
+* Majority of Sales: Concentrated between ratings 2 to 4. 
+* Lowest Sales: At rating 1. 
+* Consistent Sales: Across all ratings. 
 
 ##### Sales Breakdown by Region and Payment Method
-* Highest Sales:** South (0.4M) and North (0.5M) 
-* Lowest Sales:** West (0.4M)
+* Highest Sales: South (0.4M) and North (0.5M) 
+* Lowest Sales: West (0.4M)
 * Consistent Sales:** across all regions for all payment methods. 
 
 ![flipkart 2](https://github.com/user-attachments/assets/12d62c49-6df5-4d74-8a73-f3bb3cf2b165)
